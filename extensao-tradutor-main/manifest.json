@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Idioma Tradutor",
+    "version": "1.0",
+    "description": "Uma extensão de tradutor de idiomas",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
